@@ -1,0 +1,15 @@
+
+
+ HELLO
+ ========
+ 
+ Run these.
+
+ ./get-jackson.sh
+ ./build.sh
+ ./run.sh blahlah.json
+
+
+ Jackson API docs: http://fasterxml.github.io/jackson-databind/javadoc/2.2.0/index.html?com/fasterxml/jackson/databind/JsonNode.html
+
+
